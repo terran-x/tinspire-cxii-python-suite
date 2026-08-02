@@ -22,3 +22,5 @@ def hs_import(hsData):
     impLst.append(hscore(to_char(nmLst),hsData[i+3]))
     nmLst=[]
   return impLst
+
+# 

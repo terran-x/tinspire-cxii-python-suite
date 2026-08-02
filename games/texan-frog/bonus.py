@@ -31,3 +31,5 @@ class Bonus:
       draw_text(self.x-6,self.y+6,"★")
 #    fill_circle(self.x,self.y,6)
     return
+
+# 

@@ -44,3 +44,5 @@ def runLoop():
 #vole.storeProg(progFormat("0x103c 0x115b 0x7201 0x9202 0x22e1 0xb000"),0x00)
 #vole.run()
 #print(zeroPad(bin(vole.mainMem[0xe1])[2:],8))
+
+# 

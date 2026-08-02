@@ -419,3 +419,5 @@ def splitPathVtcs(allVtcs,grid):
     remVtcs=listDiff(remVtcs,pathVtcs)
     allPathVtcs.append(pathVtcs)
   return allPathVtcs
+
+# 

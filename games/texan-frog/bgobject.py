@@ -21,3 +21,5 @@ class BGObject:
     set_color(self.colour[0],self.colour[1],self.colour[2])
     fill_rect(self.x,self.y,self.width,self.height)
     return
+
+# 

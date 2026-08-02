@@ -109,3 +109,5 @@ class Warrior(Character):
     self.type="warrior"
     self.ap=ap
     self.inventory=inventory
+
+# 

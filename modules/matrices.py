@@ -128,3 +128,5 @@ def invert(mtx):
 # Calculates cofactor of target matrix element.
 def cofactor(mtx,i0=1,j0=1):
   return (-1)**(i0+j0)*det(submtx2(mtx,i0,j0))
+
+# 

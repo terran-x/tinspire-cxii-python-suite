@@ -72,3 +72,4 @@ class Vector:
         return self.comps[2]
     except:
       return None
+# 

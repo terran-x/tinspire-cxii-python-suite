@@ -77,3 +77,5 @@ class Frog:
         optX=fabs(prX-xGrid[i])
         xTar=xGrid[i]
     return(xTar)
+
+# 

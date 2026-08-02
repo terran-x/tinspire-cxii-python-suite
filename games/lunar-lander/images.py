@@ -1260,3 +1260,5 @@ def imgHelpScr(env):
   draw_text(0,9/10*env.camera.height-9*strHt,"'NAV' Navigation system fault.")
   draw_text(0,9/10*env.camera.height-10*strHt,"'CPU' Computer system fault.")
   return
+
+# 

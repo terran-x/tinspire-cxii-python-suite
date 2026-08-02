@@ -1005,3 +1005,5 @@ class SlxnMode:
     objarr[(objIdx+dir)%len(objarr)]=self.currObj
     objarr[objIdx]=holdObj
     
+
+# 

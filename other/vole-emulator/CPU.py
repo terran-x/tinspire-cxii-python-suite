@@ -126,3 +126,4 @@ class CPU:
       self.progCounter+=ceil(self.instructionLength/self.memCellSz)
       # Decode and execute instruction.
       self.executeInstruction()
+# 

@@ -81,3 +81,4 @@ class vector:
     d=radians(d)
     self.mag=m
     self.coord=[m*cos(d),m*sin(d)]
+# 

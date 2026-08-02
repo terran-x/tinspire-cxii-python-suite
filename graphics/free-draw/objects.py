@@ -41,3 +41,5 @@ class polygon(object):
     object.__init__(self,x,y,t)
     self.fill=f
     self.colour=c
+
+# 

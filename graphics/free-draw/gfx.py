@@ -287,3 +287,5 @@ def drawHelp(env):
   draw_text(env.winX/2,9/10*env.winY-8*strHt,"'down' cycle arc direction")
   draw_text(env.winX/2,9/10*env.winY-9*strHt,"'?!' Selection mode")
   draw_text(env.winX/2,9/10*env.winY-10*strHt,"'+/-' cycle objects in SM")
+
+# 

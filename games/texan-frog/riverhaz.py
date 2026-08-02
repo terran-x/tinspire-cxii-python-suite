@@ -98,3 +98,5 @@ class RvrHaz:
       else:
         self.state=0
     return 0
+
+# 

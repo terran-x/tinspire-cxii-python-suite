@@ -38,3 +38,5 @@ def drawClock(time,date):
   paint_buffer()
 
 main()
+
+# 

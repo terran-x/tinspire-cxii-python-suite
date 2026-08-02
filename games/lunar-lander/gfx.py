@@ -324,3 +324,5 @@ def debugInfo(env):
   draw_text(env.camera.frameXY[0],env.camera.frameXY[3]-95-18*2,"runtime: "+str(round(env.run_time,1)))
 #  draw_text(env.camera.frameXY[0],env.camera.frameXY[3]-95-18*3,": "+str())
   return
+
+# 
