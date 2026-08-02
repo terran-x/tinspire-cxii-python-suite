@@ -7,3 +7,4 @@ A compilation of custom python modules, software packages and games for the TI-N
 3. Plug your calculator into your computer via USB.
 4. Open the [TI-Nspire CX II Connect](https://vernier.com) web utility or official TI software.
 5. Drag and drop the downloaded `.tns` files onto your calculator.
+ 
